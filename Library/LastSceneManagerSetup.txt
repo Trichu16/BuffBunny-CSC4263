@@ -1,4 +1,10 @@
 sceneSetups:
-- path: Assets/Scenes/menu.unity
+- path: Assets/_Scenes/MainMenuPage2.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/_Scenes/Training Room.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/_Scenes/Fight.unity
+  isLoaded: 1
+  isActive: 0
