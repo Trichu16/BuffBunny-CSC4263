@@ -16,9 +16,7 @@ Build/
 *.csv#
 *.*.csv#
 
-
 # Unity3D generated meta files
-
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
