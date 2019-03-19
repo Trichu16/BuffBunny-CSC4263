@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 70ac8506f7950af4fa1499483d36aa3b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: badgerWalkCycle_sheet_0
+    21300002: badgerWalkCycle_sheet_1
+    21300004: badgerWalkCycle_sheet_2
+    21300006: badgerWalkCycle_sheet_3
+    21300008: badgerWalkCycle_sheet_4
+    21300010: badgerWalkCycle_sheet_5
+    21300012: badgerWalkCycle_sheet_6
+    21300014: badgerWalkCycle_sheet_7
+    21300016: badgerWalkCycle_sheet_8
+    21300018: badgerWalkCycle_sheet_9
+    21300020: badgerWalkCycle_sheet_10
+    21300022: badgerWalkCycle_sheet_11
+    21300024: badgerWalkCycle_sheet_12
+    21300026: badgerWalkCycle_sheet_13
+    21300028: badgerWalkCycle_sheet_14
+    21300030: badgerWalkCycle_sheet_15
+    21300032: badgerWalkCycle_sheet_16
+    21300034: badgerWalkCycle_sheet_17
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1510
+        width: 559
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d62158b1bd4c04f9cfe8e52fd54c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1510
+        width: 559
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8f29ab0453bbd4bae5253cb6dbc2ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1510
+        width: 559
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc34484c95c10ec4d82d08137e47077a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1510
+        width: 559
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c7a653e35f444282d25a1211035a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1516
+        width: 588
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8667b2ce46778d84e8d8f2bcf248c325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 773
+        width: 588
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc1b61daef2f0640b92642a164ba67b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 773
+        width: 588
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720f286f6d6c95a4b9c990725f7dcdac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 773
+        width: 588
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0478c84a6396c394bbf6b41deab1e99f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 776
+        width: 559
+        height: 678
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cff6e835a468c40af399eddb087789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 776
+        width: 559
+        height: 678
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ffbff695e9fc46b63ef22b7b7fb35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 559
+        height: 678
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2c01c455ee10b458f87c0fe4b516a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 30
+        width: 694
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccdd408f467ca84a8080597bbaeda93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 30
+        width: 694
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c973c63ad929614585dea1be2e6b526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 30
+        width: 694
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021532f5240bb7b469b5518fb8a00a0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerWalkCycle_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 30
+        width: 694
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51147909655adee4c8a7fc47183e9dbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cfb9423bafadfc446929fe0442cb5509
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
