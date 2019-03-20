@@ -6,6 +6,7 @@ public class Patrol : MonoBehaviour
 {
     public float speed;
     private Transform target;
+    public float stoppingDistance;
 
     void Start()
     {
@@ -15,7 +16,7 @@ public class Patrol : MonoBehaviour
 
     void Update()
     {
-        if(Vector2.Distance(transform.position, target.position) > 1.5)
-            transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime); 
+        if(Vector2.Distance(transform.position, target.position) > stoppingDistance)
+                transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime); 
     }
 }
