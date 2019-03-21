@@ -8,5 +8,10 @@ public class PurchaseLog : MonoBehaviour
     public void StartAutoWorkout()
     {
         AutoWorkout.SetActive(true);
+        GlobalGainz.GainzCount -= GlobalAutoWorkout.AutoValue;
+        GlobalAutoWorkout.AutoValue *= 2;
+        GlobalAutoWorkout.TurnOffButton = true;
+        GlobalAutoWorkout.WorkoutPerSec += 1;
+        GlobalAutoWorkout.NumberOfLevel += 1;
     }
 }

@@ -11,6 +11,7 @@ public class AutoWorkout : MonoBehaviour
 
     void Update()
     {
+        WorkoutIncrease = GlobalAutoWorkout.WorkoutPerSec;
         InternalIncrease = WorkoutIncrease;
         if(CreatingWorkout == false)
         {
