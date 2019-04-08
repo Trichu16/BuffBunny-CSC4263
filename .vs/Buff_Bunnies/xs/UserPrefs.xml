@@ -1,6 +1,7 @@
 ﻿<Properties StartupConfiguration="{5409DDAB-AEC7-A08B-45D9-F9EC965AD633}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TrainingRoom/Workout.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TrainingRoom/AutoGrowth.cs">
     <Files>
+      <File FileName="../../../Desktop/OpSySProg2/prog2/main.cpp" Line="1" Column="1" />
       <File FileName="Assets/Scripts/TrainingRoom/Workout.cs" Line="21" Column="34" />
       <File FileName="Assets/Scripts/TrainingRoom/GlobalWorkout.cs" Line="14" Column="36" />
       <File FileName="Assets/Scripts/TrainingRoom/GetGainz.cs" Line="18" Column="41" />
@@ -8,6 +9,8 @@
       <File FileName="Assets/Scripts/TrainingRoom/AutoWorkout.cs" Line="9" Column="42" />
       <File FileName="Assets/Scripts/TrainingRoom/PurchaseLog.cs" Line="12" Column="26" />
       <File FileName="Assets/Scripts/TrainingRoom/GlobalAutoWorkout.cs" Line="7" Column="11" />
+      <File FileName="Assets/Scripts/TrainingRoom/GlobalGrowth.cs" Line="18" Column="33" />
+      <File FileName="Assets/Scripts/TrainingRoom/AutoGrowth.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
