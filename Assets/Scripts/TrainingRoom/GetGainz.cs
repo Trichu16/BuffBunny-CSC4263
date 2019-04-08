@@ -16,7 +16,7 @@ public class GetGainz : MonoBehaviour
     public void ClickTheButton()
     {
         GenerateTone = Random.Range(1, 5);
-        if (GlobalWorkout.WorkoutCount == 0)
+        if (GlobalWorkout.WorkoutCount <= 0)
         {
             StatusBox.GetComponent<Text>().text = "You haven't worked out enough!";
             StatusBox.GetComponent<Animation>().Play("StatusAnim");
