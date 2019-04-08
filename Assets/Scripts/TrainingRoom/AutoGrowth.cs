@@ -1,28 +1,34 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class AutoGrowth : MonoBehaviour
 {
-
-    public bool CreatingWorkout = false;
-    public static int WorkoutIncrease = 1;
+    public GameObject StatusText;
+    public bool Growth = false;
+    public static int GainzIncrease = 1;
     public int InternalIncrease;
 
     void Update()
     {
-        WorkoutIncrease = GlobalAutoWorkout.WorkoutPerSec;
-        InternalIncrease = WorkoutIncrease;
-        if(CreatingWorkout == false)
+        GainzIncrease = GlobalGrowth.GrowthPerSec;
+        InternalIncrease = GainzIncrease;
+        if(Growth == false)
         {
-            CreatingWorkout = true;
-            StartCoroutine(CreateTheWorkout());
+            Growth = true;
+            StartCoroutine(Grow());
         }
     }
-    IEnumerator CreateTheWorkout()
+    IEnumerator Grow()
     {
-        GlobalWorkout.WorkoutCount += InternalIncrease;
-        yield return new WaitForSeconds(2);
-        CreatingWorkout = false;
+       
+            GlobalGainz.GainzCount += InternalIncrease;
+            GlobalWorkout.WorkoutCount -= 1;
+            yield return new WaitForSeconds(2);
+        Growth = false;
+
     }
-}
+
+    }
+

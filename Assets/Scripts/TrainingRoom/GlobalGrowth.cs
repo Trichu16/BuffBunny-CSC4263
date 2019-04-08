@@ -11,7 +11,7 @@ public class GlobalGrowth : MonoBehaviour
     public GameObject RealButton;
     public GameObject RealText;
     public int CurrentGainz;
-    public static int GrowthValue = 50;
+    public static int GrowthValue = 10;
     public static bool TurnOffButton=false;
     public GameObject LevelStats;
     public static int numberOfLevel;

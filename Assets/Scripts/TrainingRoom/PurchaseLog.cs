@@ -5,6 +5,7 @@ using UnityEngine;
 public class PurchaseLog : MonoBehaviour
 {
     public GameObject AutoWorkout;
+    public GameObject AutoGrowth;
     public AudioSource playSound;
 
     public void StartAutoWorkout()
@@ -16,5 +17,16 @@ public class PurchaseLog : MonoBehaviour
         GlobalAutoWorkout.TurnOffButton = true;
         GlobalAutoWorkout.WorkoutPerSec += 1;
         GlobalAutoWorkout.NumberOfLevel += 1;
+    }
+
+    public void StartAutoGrowth()
+    {
+        playSound.Play();
+        AutoGrowth.SetActive(true);
+        GlobalGainz.GainzCount -= GlobalGrowth.GrowthValue;
+        GlobalGrowth.GrowthValue *= 2;
+        GlobalGrowth.TurnOffButton = true;
+        GlobalGrowth.GrowthPerSec += 1;
+        GlobalGrowth.numberOfLevel += 1;
     }
 }
