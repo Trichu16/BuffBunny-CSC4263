@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{5409DDAB-AEC7-A08B-45D9-F9EC965AD633}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TrainingRoom/GlobalAutoWorkout.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TrainingRoom/GetGainz.cs">
     <Files>
       <File FileName="Assets/Scripts/TrainingRoom/Workout.cs" Line="18" Column="10" />
       <File FileName="Assets/Scripts/TrainingRoom/GlobalWorkout.cs" Line="15" Column="35" />
-      <File FileName="Assets/Scripts/TrainingRoom/GetGainz.cs" Line="21" Column="84" />
+      <File FileName="Assets/Scripts/TrainingRoom/GetGainz.cs" Line="19" Column="41" />
       <File FileName="Assets/Scripts/TrainingRoom/GlobalGainz.cs" Line="15" Column="56" />
       <File FileName="Assets/Scripts/TrainingRoom/AutoWorkout.cs" Line="21" Column="6" />
       <File FileName="Assets/Scripts/TrainingRoom/PurchaseLog.cs" Line="33" Column="1" />
-      <File FileName="Assets/Scripts/TrainingRoom/GlobalGrowth.cs" Line="27" Column="22" />
-      <File FileName="Assets/Scripts/TrainingRoom/AutoGrowth.cs" Line="25" Column="47" />
+      <File FileName="Assets/Scripts/TrainingRoom/GlobalGrowth.cs" Line="14" Column="39" />
+      <File FileName="Assets/Scripts/TrainingRoom/AutoGrowth.cs" Line="35" Column="1" />
       <File FileName="Assets/Scripts/TrainingRoom/GlobalAutoWorkout.cs" Line="7" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
