@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/Training Room.unity
+- path: Assets/_Scenes/Fight_2.unity
   isLoaded: 1
   isActive: 1
