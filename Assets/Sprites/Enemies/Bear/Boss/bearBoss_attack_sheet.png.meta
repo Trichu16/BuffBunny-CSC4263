@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: ebd4fb02e4907f84db100d8a487e87db
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bearBoss_attack_sheet_0
+    21300002: bearBoss_attack_sheet_1
+    21300004: bearBoss_attack_sheet_2
+    21300006: bearBoss_attack_sheet_3
+    21300008: bearBoss_attack_sheet_4
+    21300010: bearBoss_attack_sheet_5
+    21300012: bearBoss_attack_sheet_6
+    21300014: bearBoss_attack_sheet_7
+    21300016: bearBoss_attack_sheet_8
+    21300018: bearBoss_attack_sheet_9
+    21300020: bearBoss_attack_sheet_10
+    21300022: bearBoss_attack_sheet_11
+    21300024: bearBoss_attack_sheet_12
+    21300026: bearBoss_attack_sheet_13
+    21300028: bearBoss_attack_sheet_14
+    21300030: bearBoss_attack_sheet_15
+    21300032: bearBoss_attack_sheet_16
+    21300034: bearBoss_attack_sheet_17
+    21300036: bearBoss_attack_sheet_18
+    21300038: bearBoss_attack_sheet_19
+    21300040: bearBoss_attack_sheet_20
+    21300042: bearBoss_attack_sheet_21
+    21300044: bearBoss_attack_sheet_22
+    21300046: bearBoss_attack_sheet_23
+    21300048: bearBoss_attack_sheet_24
+    21300050: bearBoss_attack_sheet_25
+    21300052: bearBoss_attack_sheet_26
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3334
+        width: 985
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d73866d2f31d428ae6055e77ed687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 3334
+        width: 985
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0786ae9304396f546b0999497c2d2468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 3334
+        width: 985
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e55e879107508846b3e56542e6ba46d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 3334
+        width: 985
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356af8fd67aa75f4284dfe88d4bc1762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2254
+        width: 986
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e0e734f88204c48806ace893ad9740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 2254
+        width: 986
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a1285ed3122948b05022c08efcdfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 2192
+        width: 1091
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabf5a7399d932340bac8f8330a6706f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 2192
+        width: 1091
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f44dc2e448734748b44fb70c06da7c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1113
+        width: 1092
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddffed2ab82d394aac9db077ed1dc5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1095
+        width: 332
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c682d9b99c89344b727cb7853ccd98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1079
+        width: 1383
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d910053dcdb6245b96eb9f835cba11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 1095
+        width: 332
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb662a18f201db4d894945bccb42b0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 1079
+        width: 1383
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b7027fb3079c438292dc095134891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4930
+        y: 1095
+        width: 332
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8840fa020c364e4780104a1c9b7cdc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 1079
+        width: 1383
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ffeb4107686e24a821fb6461d435ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 15
+        width: 333
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d3152b9801724dac45443dc388b65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 1073
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ead7aaf30dbca43be73e5fae3b9805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 76
+        width: 315
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54151bbb2e411314ca88f4a7370a7000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 15
+        width: 333
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cd5d6c1260d9c49a62d4effca4bce7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 0
+        width: 1073
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba9883e524ee7a4699c4dc583ff7b79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 76
+        width: 315
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af72867bc7d96254e95a32c74743618d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 15
+        width: 333
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058656f2f62279d4aa1d0d51bc9a15f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 0
+        width: 1073
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d25f2e825b8d45a0dd6b08cce734f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 76
+        width: 315
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29557a7859d012649965395771475c22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4930
+        y: 15
+        width: 333
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9433b6fa698c144bd771fb42c276a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 0
+        width: 1073
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a55b7b27f318944391bf45191d13bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_attack_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 6191
+        y: 76
+        width: 315
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f5e273f08a0f4f9ec93e04a77923f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f24340898232a7048bb8cee2b4d9cebd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

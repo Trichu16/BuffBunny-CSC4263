@@ -1,0 +1,771 @@
+fileFormatVersion: 2
+guid: ec02590bc271fbb4cbcab0dee7fbc434
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bearMinion_walkUp_sheet_0
+    21300002: bearMinion_walkUp_sheet_1
+    21300004: bearMinion_walkUp_sheet_2
+    21300006: bearMinion_walkUp_sheet_3
+    21300008: bearMinion_walkUp_sheet_4
+    21300010: bearMinion_walkUp_sheet_5
+    21300012: bearMinion_walkUp_sheet_6
+    21300014: bearMinion_walkUp_sheet_7
+    21300016: bearMinion_walkUp_sheet_8
+    21300018: bearMinion_walkUp_sheet_9
+    21300020: bearMinion_walkUp_sheet_10
+    21300022: bearMinion_walkUp_sheet_11
+    21300024: bearMinion_walkUp_sheet_12
+    21300026: bearMinion_walkUp_sheet_13
+    21300028: bearMinion_walkUp_sheet_14
+    21300030: bearMinion_walkUp_sheet_15
+    21300032: bearMinion_walkUp_sheet_16
+    21300034: bearMinion_walkUp_sheet_17
+    21300036: bearMinion_walkUp_sheet_18
+    21300038: bearMinion_walkUp_sheet_19
+    21300040: bearMinion_walkUp_sheet_20
+    21300042: bearMinion_walkUp_sheet_21
+    21300044: bearMinion_walkUp_sheet_22
+    21300046: bearMinion_walkUp_sheet_23
+    21300048: bearMinion_walkUp_sheet_24
+    21300050: bearMinion_walkUp_sheet_25
+    21300052: bearMinion_walkUp_sheet_26
+    21300054: bearMinion_walkUp_sheet_27
+    21300056: bearMinion_walkUp_sheet_28
+    21300058: bearMinion_walkUp_sheet_29
+    21300060: bearMinion_walkUp_sheet_30
+    21300062: bearMinion_walkUp_sheet_31
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1814
+        width: 505
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eff7598df24b3c40808179e25c0c36a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1814
+        width: 505
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7879cd56814edff468c0ac638b007cd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1814
+        width: 507
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f74092f6416f9d4bb8cdc7c7a5b7e5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1814
+        width: 505
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112cfdc16d564614faff3a5a25646e9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1832
+        width: 559
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82113ab19bb6be4f94df59fff99bf0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1829
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f4b78c09e61641acc5328f6f38bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 1832
+        width: 562
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945ff613b4088bc46807e2b49c9aa35b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 1829
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee2571737bf98a42ad3d5e46cb84b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1809
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a2dfd8cd32b414c820faf42bbd7aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 1809
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e39ea7553eccc45a9a342f752cf536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 927
+        width: 559
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61295e22ff576de41b51b571b8a9c6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 926
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c537931f5f24e33438bec8d28058ee9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 927
+        width: 559
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2c3e4cdcbddf94e8c7e4a27c64fa71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 926
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fce83cf630dc074889d03928672c33a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 909
+        width: 506
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586c51ac343bace4985e1b139813eaae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 909
+        width: 505
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dfc6dd5033bd14296b4a81402ec02f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 909
+        width: 507
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81aa1aa051355540853e8d777f39e85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 909
+        width: 506
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e140a257e51d24bb08f5cf4dc31b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 905
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5664c20e358f3d04eabf83f96277fcd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 906
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec78fbe97ccccb4f9c961a81aaba5c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 25
+        width: 560
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c4a2ac2517114096b7f46b3c57717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46eeaafc712f1247b2ec347d823de38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 25
+        width: 561
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7e3b5e58922c741b5acace033d06a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e920782a0a11704d9aadc8389575a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 25
+        width: 561
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3a6194a9eb21c438b2f2d6e9ad1f28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971d5f6ddba2ec24989d46276113cce9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 25
+        width: 560
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda145b5bb53fcb4ab17705534a16a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d0dfca9afc69b44b826fbfb2044607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee9f5b6033d83040a9e5b3b10ae5d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf93b8df0f11a7498c48eec1d9c1050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e2b5aac8d34fe469465eaa18fa9240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_walkUp_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066eb68cc202c04a9fd976edfe9d282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3567e1ceb141aa84bb64778949d597e0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
