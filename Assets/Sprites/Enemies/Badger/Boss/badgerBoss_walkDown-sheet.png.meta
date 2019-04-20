@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 29b178c2fc8b964459af4a6e4f831a25
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: badgerBoss_walkDown-sheet_0
+    21300002: badgerBoss_walkDown-sheet_1
+    21300004: badgerBoss_walkDown-sheet_2
+    21300006: badgerBoss_walkDown-sheet_3
+    21300008: badgerBoss_walkDown-sheet_4
+    21300010: badgerBoss_walkDown-sheet_5
+    21300012: badgerBoss_walkDown-sheet_6
+    21300014: badgerBoss_walkDown-sheet_7
+    21300016: badgerBoss_walkDown-sheet_8
+    21300018: badgerBoss_walkDown-sheet_9
+    21300020: badgerBoss_walkDown-sheet_10
+    21300022: badgerBoss_walkDown-sheet_11
+    21300024: badgerBoss_walkDown-sheet_12
+    21300026: badgerBoss_walkDown-sheet_13
+    21300028: badgerBoss_walkDown-sheet_14
+    21300030: badgerBoss_walkDown-sheet_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2627
+        width: 459
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c5bdf955aff449bbb58c26ccf4641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2627
+        width: 459
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d879863ac20ffc4f9562f53e176f823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 2627
+        width: 458
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3976a3bef1dcf204e96c8766fcbdeb61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 2627
+        width: 458
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ac30e11ed008c439f858162e16e3fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1741
+        width: 654
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15062a85d9a5bc34e8f96999bf72ebcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 891
+        width: 467
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511f7e83a39057e418a67117ee3e3756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1741
+        width: 656
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54188f891fb8bd4fb542b1d11d8f326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 891
+        width: 468
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d853ced3b462a4e428c78dfaaa9b8a98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1741
+        width: 655
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c5cf196e9d934cbd7101c858fa2e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 891
+        width: 468
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ff6947ac925f54fb6cfd3c7b64d738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 1741
+        width: 797
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524e58dc4b73f2d42a6de3d312060156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 891
+        width: 468
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809900a14e72e6243971c1fd42cf0d37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 11
+        width: 635
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b55518519dbeb34ebb6936b0fc6534e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 11
+        width: 634
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b1ae0b9f283134abe55eaf0abf5a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 11
+        width: 634
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f111be03eb12c40bf9aaa97578afe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkDown-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 11
+        width: 632
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646708200a45fad4fb0118764af358c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5343bcff265f1c04b8159cd3cdb0fbba
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

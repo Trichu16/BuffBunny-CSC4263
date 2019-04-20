@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 809283e731dd76c469d8c082095586bf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: badgerMinion_walkDown_sheet_0
+    21300002: badgerMinion_walkDown_sheet_1
+    21300004: badgerMinion_walkDown_sheet_2
+    21300006: badgerMinion_walkDown_sheet_3
+    21300008: badgerMinion_walkDown_sheet_4
+    21300010: badgerMinion_walkDown_sheet_5
+    21300012: badgerMinion_walkDown_sheet_6
+    21300014: badgerMinion_walkDown_sheet_7
+    21300016: badgerMinion_walkDown_sheet_8
+    21300018: badgerMinion_walkDown_sheet_9
+    21300020: badgerMinion_walkDown_sheet_10
+    21300022: badgerMinion_walkDown_sheet_11
+    21300024: badgerMinion_walkDown_sheet_12
+    21300026: badgerMinion_walkDown_sheet_13
+    21300028: badgerMinion_walkDown_sheet_14
+    21300030: badgerMinion_walkDown_sheet_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1565
+        width: 478
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb40eb11292d8854da729cad36943e42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1565
+        width: 477
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeefb89a13b306f4a8c099cabc23b6af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1565
+        width: 478
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72b5b34028fddf41b8306b92dac9508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1565
+        width: 478
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e686fe6bb8884aa9cdda78be3aed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 1511
+        width: 533
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37871253f24089f448ae5aea5fba2204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 1511
+        width: 532
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730732ba408c7c34cab37395e6fad457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 754
+        width: 531
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e262bf01c1a18240bf8dfd0c36733a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 754
+        width: 533
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af22c50f3aecf4d89e0c13c74196ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 809
+        width: 478
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c50af48e57e854082107c19aef3c1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 809
+        width: 478
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d66f3b940bff4f860bde0188b71cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 809
+        width: 478
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba66436163c82448bbdabd2ee67fcd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 809
+        width: 478
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79aee914c9d38c439472ef95645184c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 533
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d791155e1f5a74cb741f6752821147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 531
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7eb25a4ab24e2488d9d2dfc076bd60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 532
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2994b4df9a854514d9da29e85e9e7880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerMinion_walkDown_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 533
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4398c2700af99ca47ae9109c7a22b723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cb35d0bd2decdbb4e9dd3936ad9163f5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

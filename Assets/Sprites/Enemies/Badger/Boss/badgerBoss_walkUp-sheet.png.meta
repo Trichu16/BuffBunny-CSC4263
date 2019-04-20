@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: d0ca7e5df3db09a4fa3d8291533fccee
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: badgerBoss_walkUp-sheet_0
+    21300002: badgerBoss_walkUp-sheet_1
+    21300004: badgerBoss_walkUp-sheet_2
+    21300006: badgerBoss_walkUp-sheet_3
+    21300008: badgerBoss_walkUp-sheet_4
+    21300010: badgerBoss_walkUp-sheet_5
+    21300012: badgerBoss_walkUp-sheet_6
+    21300014: badgerBoss_walkUp-sheet_7
+    21300016: badgerBoss_walkUp-sheet_8
+    21300018: badgerBoss_walkUp-sheet_9
+    21300020: badgerBoss_walkUp-sheet_10
+    21300022: badgerBoss_walkUp-sheet_11
+    21300024: badgerBoss_walkUp-sheet_12
+    21300026: badgerBoss_walkUp-sheet_13
+    21300028: badgerBoss_walkUp-sheet_14
+    21300030: badgerBoss_walkUp-sheet_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2660
+        width: 617
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d11525e08d24344ad087ebe33d7a14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2660
+        width: 617
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4675cbd2e8f527e418543ee4b29b8d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 2660
+        width: 617
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1e3a7fd2c7f24694a361804640543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 2660
+        width: 617
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce05e4a5a3133743b5abea7c5591fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1769
+        width: 750
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cda9ccd6713724fafc51f080111af8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1769
+        width: 751
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad285331a1e5c724faa8c90e21e9bb37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1769
+        width: 750
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0692cb7bf420d74c85dafa410f03c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1769
+        width: 751
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08345f1fd931474fbad69813db7c79f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 900
+        width: 617
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af17ace5ff936b146bb76b3d0a75a561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 900
+        width: 617
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c7f2ca22384754dabe3f9c22a7b239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 900
+        width: 617
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b1d73d1ed2738418b9ad19d840fc5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 900
+        width: 617
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf3aad0ffd7bc940a9b8f9d8ab8ae6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 9
+        width: 749
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6b54c442f6d9142a2e33357bd5f965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 9
+        width: 749
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074bc7b14d9559843a3acbafe7f9665a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 9
+        width: 749
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33afccb4e5e334bb58fd661d12070c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badgerBoss_walkUp-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 9
+        width: 749
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a5847ebe711c49a84a80646f76d3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a5d44b10e5b6021429fba6054518f9eb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

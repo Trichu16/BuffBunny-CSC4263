@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 376fc3933a5a1ca41b3225f357761faf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bearBoss_idle_sheet_0
+    21300002: bearBoss_idle_sheet_1
+    21300004: bearBoss_idle_sheet_2
+    21300006: bearBoss_idle_sheet_3
+    21300008: bearBoss_idle_sheet_4
+    21300010: bearBoss_idle_sheet_5
+    21300012: bearBoss_idle_sheet_6
+    21300014: bearBoss_idle_sheet_7
+    21300016: bearBoss_idle_sheet_8
+    21300018: bearBoss_idle_sheet_9
+    21300020: bearBoss_idle_sheet_10
+    21300022: bearBoss_idle_sheet_11
+    21300024: bearBoss_idle_sheet_12
+    21300026: bearBoss_idle_sheet_13
+    21300028: bearBoss_idle_sheet_14
+    21300030: bearBoss_idle_sheet_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3042
+        width: 713
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00792fce9618a5540b9c52533897b5c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 3042
+        width: 712
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c4fe8e22295494a893468e2c5421ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3042
+        width: 713
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9ea77f261692e49a7901742d577dce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 3042
+        width: 710
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed40e7c190748b549baf5f11b1a2c2be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2031
+        width: 713
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f43c80da79dc44aaa4d81d61fd5d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2031
+        width: 712
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c0f94702bff1a488539b1791a76b05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2031
+        width: 713
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9560f599b8155f45b2e29e9303e7c55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2031
+        width: 710
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2c73b9f20cb0b4d9cbc9ae1ff524e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1020
+        width: 713
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9905f15a8354bf449b71189baceed93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1020
+        width: 710
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eb401f34773d943be646dc8f5d9309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1020
+        width: 713
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216caf5232688f9428afb1507361111d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1020
+        width: 712
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fc636656858e74dbf87e545307f2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 9
+        width: 713
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d838d9ce91aef41818bda652f1edb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 9
+        width: 710
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786483ba51408494f9c33762436500f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 9
+        width: 713
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dace147c0968324aa6c0b3b8b439e02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearBoss_idle_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 9
+        width: 712
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8313f1ddd04963f43a8d95464d17b251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e522a2d74aca82b4ca5503a33f9673c7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

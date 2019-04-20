@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 031615c6779d7914aa4f113e355ad34a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: humanMinion_walkDown_sheet_0
+    21300002: humanMinion_walkDown_sheet_1
+    21300004: humanMinion_walkDown_sheet_2
+    21300006: humanMinion_walkDown_sheet_3
+    21300008: humanMinion_walkDown_sheet_4
+    21300010: humanMinion_walkDown_sheet_5
+    21300012: humanMinion_walkDown_sheet_6
+    21300014: humanMinion_walkDown_sheet_7
+    21300016: humanMinion_walkDown_sheet_8
+    21300018: humanMinion_walkDown_sheet_9
+    21300020: humanMinion_walkDown_sheet_10
+    21300022: humanMinion_walkDown_sheet_11
+    21300024: humanMinion_walkDown_sheet_12
+    21300026: humanMinion_walkDown_sheet_13
+    21300028: humanMinion_walkDown_sheet_14
+    21300030: humanMinion_walkDown_sheet_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1870
+        width: 512
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8ac0dbbefcc7443892d977ed94467c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1870
+        width: 510
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789b96982b00c144db4de840218460d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1870
+        width: 512
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ad231690ede44099fbff696327dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1870
+        width: 512
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff880ee47484d4544ba867f8bb972bee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 1803
+        width: 533
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38668448b7a954447ae53ec75eb30221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1803
+        width: 531
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45463afd9a9b7cd40a9549a6f06ad5a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 904
+        width: 531
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f18680189f6f7499d9bb2561d86350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 904
+        width: 533
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362016c9f0f9cbb46966dcdba173b64f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 971
+        width: 510
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114c2295ce1907a41b3f4746f06e533e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 971
+        width: 511
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7201b1b0bd4114c9e006a53703dad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 971
+        width: 512
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6287fde574ee2754badabdc44d3cb344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 971
+        width: 510
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ecc733cdb09104ca472fc793cd173c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5
+        width: 532
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242fe8f7e955acf43b40319193f92559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 5
+        width: 531
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5913dfb84f1894c93c564d222089fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 5
+        width: 531
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba513177151b474eb2f1527fb878a76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humanMinion_walkDown_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 5
+        width: 532
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccecd33ebc55ae45b3eee978a2f256c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c45515b08ddacb549814839daa74ea7b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

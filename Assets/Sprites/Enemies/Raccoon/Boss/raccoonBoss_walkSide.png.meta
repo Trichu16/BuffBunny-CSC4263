@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 77095a87417a43443b9708f27fef26eb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: raccoonBoss_walkSide_0
+    21300002: raccoonBoss_walkSide_1
+    21300004: raccoonBoss_walkSide_2
+    21300006: raccoonBoss_walkSide_3
+    21300008: raccoonBoss_walkSide_4
+    21300010: raccoonBoss_walkSide_5
+    21300012: raccoonBoss_walkSide_6
+    21300014: raccoonBoss_walkSide_7
+    21300016: raccoonBoss_walkSide_8
+    21300018: raccoonBoss_walkSide_9
+    21300020: raccoonBoss_walkSide_10
+    21300022: raccoonBoss_walkSide_11
+    21300024: raccoonBoss_walkSide_12
+    21300026: raccoonBoss_walkSide_13
+    21300028: raccoonBoss_walkSide_14
+    21300030: raccoonBoss_walkSide_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2718
+        width: 735
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ee6a087e066941ac684351501daf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_1
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2718
+        width: 734
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfd76e429ea40e4dafbf36c82c82ab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_2
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2718
+        width: 736
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17723d9238de30408a0fa352c54e2c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_3
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2718
+        width: 736
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13baa0f75149264d8f102f4bfc91332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1819
+        width: 665
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4bcb2ba8ff6446b01e2ddf41f5e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_5
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1819
+        width: 666
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162b2442d5a9d84483f2694ef336509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_6
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1819
+        width: 663
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f398c2cbadd8d4fb5b317f49d5df7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_7
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1819
+        width: 664
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ad737c6fe0a24d8ca03bfdebf5a39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 910
+        width: 601
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ccda32254fd8a4e8cb8bed7f56258d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 910
+        width: 600
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74681bc270c90f42bdc2a82388413e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_10
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 910
+        width: 601
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21752a134170eb4449df8ac61c95e42b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_11
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 910
+        width: 602
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4fbb02cbbd3d04a9f3f3e3733ff8e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 709
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2575759e0271fb4b9258b110c7436e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_13
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 11
+        width: 708
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a414905c734d642ac30820f9904a05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_14
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 11
+        width: 708
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7153d3fcd6786004faed683fe7b0794b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoonBoss_walkSide_15
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 11
+        width: 708
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ae2de1ef0d9704c96c40225a3c4d80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 92741d9c2ed6b7d4f9eee4c847c8486e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 9ebbc58283bcabb4197e91edfcf19ad1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bearMinion_idle_sheet_0
+    21300002: bearMinion_idle_sheet_1
+    21300004: bearMinion_idle_sheet_2
+    21300006: bearMinion_idle_sheet_3
+    21300008: bearMinion_idle_sheet_4
+    21300010: bearMinion_idle_sheet_5
+    21300012: bearMinion_idle_sheet_6
+    21300014: bearMinion_idle_sheet_7
+    21300016: bearMinion_idle_sheet_8
+    21300018: bearMinion_idle_sheet_9
+    21300020: bearMinion_idle_sheet_10
+    21300022: bearMinion_idle_sheet_11
+    21300024: bearMinion_idle_sheet_12
+    21300026: bearMinion_idle_sheet_13
+    21300028: bearMinion_idle_sheet_14
+    21300030: bearMinion_idle_sheet_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2391
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e237496af63264ebca4281da0a1c37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2391
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f14ec42b1cd724db76203b2f2f032a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2391
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9649c7ae55f64a547af261e741387c0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2391
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f8844675db0f54d96d90b389de39a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1594
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b8f1f9f15f3e54999bac452695794e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1594
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f34b4ca4db34974c86fd633714d8738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1590
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74384b6d254834a42a7ebdc91900a22e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1590
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb95441cec739964ab3a0f7eb2da6a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd0a26e09793544b83542f7efa3229d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 797
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188351f66a1b918458d7c9aefef7b87c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 797
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9279198e27a424fa997f26e9dbd606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 797
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9b051c3c54c184c80ebbab42b628cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc23a259af8aeb4f8d0e86eac126dd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31f89d36ae93e43946ac05a7e4a81e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b7c64a3b8f6646baa88d419979470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bearMinion_idle_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 0
+        width: 875
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288dbfaada1123f43b2b3741c59504b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 53b30351fb9fc7b44a27cabc7868d51f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
