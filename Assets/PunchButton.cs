@@ -15,6 +15,8 @@ public class PunchButton : MonoBehaviour
     {
         animator.SetBool("attack", true);
         animator.SetBool("Idle", false);
+        animator.SetBool("walkingright", false);
+        animator.SetBool("walkingleft", false);
         StartCoroutine(WaitForEating());
     }
 
