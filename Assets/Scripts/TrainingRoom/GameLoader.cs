@@ -30,8 +30,6 @@ public class GameLoader : MonoBehaviour
             GlobalGrowth.numberOfLevel = SavedGrowthLevel;
             SavedWorkoutLevel = PlayerPrefs.GetInt("Saved Workout Level");
             GlobalAutoWorkout.NumberOfLevel = SavedWorkoutLevel;
-
-
         }
     }
 
