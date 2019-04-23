@@ -33,11 +33,11 @@ public class Patrol : MonoBehaviour
         if (Vector2.Distance(transform.position, target.position) > stoppingDistance)
         {
             transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
-            animator.SetBool("Moving", true);
+            //animator.SetBool("Moving", true);
         }
         else if (Vector2.Distance(transform.position, target.position) < stoppingDistance)
         {
-            animator.SetBool("Attack", true);
+            animator.SetBool("attack", true);
         }
         
     }

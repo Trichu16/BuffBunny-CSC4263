@@ -20,6 +20,14 @@ public class HurtEnemy : MonoBehaviour
         if(other.gameObject.tag=="Enemy" )
         {
             other.gameObject.GetComponent<EnemyHealthManager>().HurtEnemy(damageToGive);
+            
+                animator.SetBool("walkingright", true);
+        }
+        else
+        {
+                animator.SetBool("Idle", true);
+            
         }
     }
-}
+    }
+
