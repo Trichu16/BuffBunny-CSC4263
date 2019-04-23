@@ -8,7 +8,8 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody2D rb2d;       //Store a reference to the Rigidbody2D component required to use 2D Physics.
     private Vector2 moveVelocity;
-
+    public CharacterController controller;
+    public Animator animator;
 
     // Use this for initialization
     void Start()

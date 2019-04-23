@@ -6,15 +6,15 @@ public class DestroyEnemy : MonoBehaviour
 {
     void OnCollisionEnter(Collision col)
     {
-        if(col.gameObject.name == "wolfMinion")
-        {
-            Destroy(col.gameObject);
-        }
+        //if(col.gameObject.name == "wolfMinion")
+        //{
+        //    Destroy(col.gameObject);
+        //}
 
-        if (col.gameObject.name == "wolfBoss")
-        {
-            Destroy(col.gameObject);
-        }
+        //if (col.gameObject.name == "wolfBoss")
+        //{
+        //    Destroy(col.gameObject);
+        //}
 
         if (col.gameObject.name == "badgerMinion")
         {

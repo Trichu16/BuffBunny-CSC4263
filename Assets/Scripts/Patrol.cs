@@ -31,10 +31,15 @@ public class Patrol : MonoBehaviour
     void Update()
     {
         if (Vector2.Distance(transform.position, target.position) > stoppingDistance)
+        {
             transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
-
-        if (Vector2.Distance(transform.position, target.position) < stoppingDistance)
+            animator.SetBool("Moving", true);
+        }
+        else if (Vector2.Distance(transform.position, target.position) < stoppingDistance)
+        {
             animator.SetBool("Attack", true);
+        }
+        
     }
 }
 
