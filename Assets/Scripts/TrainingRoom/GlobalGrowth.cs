@@ -22,9 +22,9 @@ public class GlobalGrowth : MonoBehaviour
     void Update()
     {
         CurrentGainz = GlobalGainz.GainzCount;
-        LevelStats.GetComponent<Text>().text = "Growth: "+numberOfLevel+" @ "+GrowthPerSec+" per sec";
-        FakeText.GetComponent<Text>().text = "Grow: " + GrowthValue;
-        RealText.GetComponent<Text>().text = "Grow: " + GrowthValue;
+        //LevelStats.GetComponent<Text>().text = "Growth: "+numberOfLevel+" @ "+GrowthPerSec+" per sec";
+        FakeText.GetComponent<Text>().text = "          " + GrowthValue;
+        RealText.GetComponent<Text>().text = "          " + GrowthValue;
         if (CurrentGainz >= GrowthValue)
         {
             FakeButton.SetActive(false);
