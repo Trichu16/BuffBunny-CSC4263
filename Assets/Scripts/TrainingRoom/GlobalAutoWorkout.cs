@@ -14,7 +14,7 @@ public class GlobalAutoWorkout : MonoBehaviour
     public static int AutoValue = 10;
     public static bool TurnOffButton=false;
     public GameObject LevelStats;
-    public static int NumberOfLevel;
+    public static int NumberOfLevel = 0;
     public static int WorkoutPerSec;
 
 
@@ -23,8 +23,8 @@ public class GlobalAutoWorkout : MonoBehaviour
     {
         CurrentGainz = GlobalGainz.GainzCount;
         //LevelStats.GetComponent<Text>().text = "Level: "+NumberOfLevel+" @ "+WorkoutPerSec+" per sec";
-        FakeText.GetComponent<Text>().text = "           " + AutoValue;
-        RealText.GetComponent<Text>().text = "           " + AutoValue;
+        FakeText.GetComponent<Text>().text = "           " + NumberOfLevel;
+        RealText.GetComponent<Text>().text = "           " + NumberOfLevel;
         if (CurrentGainz >= AutoValue)
         {
             FakeButton.SetActive(false);

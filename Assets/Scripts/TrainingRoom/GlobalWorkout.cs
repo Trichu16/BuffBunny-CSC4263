@@ -13,6 +13,6 @@ public class GlobalWorkout : MonoBehaviour
     void Update()
     {
         InternalWorkout = WorkoutCount;
-        WorkoutDisplay.GetComponent<Text>().text = "Workout: "+InternalWorkout;
+        WorkoutDisplay.GetComponent<Text>().text = ""+InternalWorkout;
     }
 }
