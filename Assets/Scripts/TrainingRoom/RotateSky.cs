@@ -5,9 +5,9 @@ using UnityEngine;
 public class RotateSky : MonoBehaviour
 {
 
-    // Update is called once per frame
+
     void Update()
     {
-        
+  
     }
 }
