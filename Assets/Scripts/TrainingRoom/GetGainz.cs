@@ -7,7 +7,7 @@ public class GetGainz : MonoBehaviour
 {
     public GameObject textBox;
     public GameObject StatusBox;
-    public GameObject WorkoutButton;
+    public Button WorkoutButton;
     public AudioSource GainsSound1;
     public AudioSource GainsSound2;
     public AudioSource GainsSound3;
@@ -16,7 +16,7 @@ public class GetGainz : MonoBehaviour
 
     public void ClickTheButton()
     {
-        WorkoutButton.SetActive(false);
+        WorkoutButton.interactable=false;
         GenerateTone = Random.Range(1, 5);
         if (GlobalWorkout.WorkoutCount <= 0)
         {
@@ -44,6 +44,12 @@ public class GetGainz : MonoBehaviour
             GlobalWorkout.WorkoutCount -= 1;
             GlobalGainz.GainzCount += 1;
         }
-        WorkoutButton.SetActive(true);
+        StartCoroutine(WaitForEating());
+        IEnumerator WaitForEating()
+        {
+            
+            yield return new WaitForSeconds(.8f);
+            WorkoutButton.interactable = true;
+        }
     }
 }
